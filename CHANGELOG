@@ -1,6 +1,7 @@
 Cacti CHANGELOG
 
 1.2.15
+-issue#3891: Fix IP column sorting on single sort
 -issue#3643: Maximum OIDs Per Get Request - field empty
 -issue#3656: Cacti V1.2.12 Boost running too often
 -issue#3693: Uptime Recache Event Loop on Devices Causing Interface Graph Gaps
